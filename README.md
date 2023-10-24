@@ -1,16 +1,3 @@
-# magic8ball
+![screenshot-2023-10-24_17 17 23 862](https://github.com/aydozy/Flutter-Magic8Ball/assets/104395137/a8877d39-f8df-4354-ab3e-5a10004db35f)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[screencast-Genymotion-2023-10-24_17.17.26.051.webm](https://github.com/aydozy/Flutter-Magic8Ball/assets/104395137/f800c15d-4835-46f7-a28d-e14ca06a5753)
